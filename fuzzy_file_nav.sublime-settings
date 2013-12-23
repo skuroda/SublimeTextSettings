@@ -1,0 +1,33 @@
+{
+        "bookmarks":[{
+        "name": "Sublime Packages",
+        "path": {
+            "#multiconf#": [{
+                "os:windows": "~\\AppData\\Roaming\\Sublime Text 3\\Packages"
+            },{
+                "os:linux": "~/.config/sublime-text-3/Packages"
+            }]
+        }
+    },{
+        "name": "Root",
+        "path": {
+            "#multiconf#": [{
+                "os:linux": "/"
+            }, {
+                "os:osx": "/"
+            }]
+        }
+    },{
+        "name": "My Computer",
+        "path": {
+            "#multiconf#": [{
+                "os:windows": ""
+            }]
+        }
+    },{
+        "name": "Desktop",
+        "path": "~/Desktop"
+    }],
+	"nix_style_path_complete": true
+}
+

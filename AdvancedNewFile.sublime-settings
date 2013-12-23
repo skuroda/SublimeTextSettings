@@ -1,0 +1,13 @@
+{
+    "alias": {
+        "desktop": "~/Desktop"
+    },
+    "os_specific_alias": {
+        "sublime_packages": {
+            "windows": "~\\AppData\\Roaming\\Sublime Text 3\\Packages",
+            "linux": "~/.config/sublime-text-3/Packages"
+        }
+    },
+    "rename_default": ":<filename>",
+    "vcs_management": false
+}

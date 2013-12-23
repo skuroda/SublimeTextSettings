@@ -1,0 +1,37 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"color_scheme": "Packages/Theme - Faceless/Tomorrow-Night-Eighties-Stormy.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"faceless_active_text": true,
+	"faceless_dark_blue": true,
+	"faceless_dark_dirty_red": true,
+	"faceless_dirty_bar": true,
+	"font_size": 8,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"ScalaWorksheet",
+		"Graphviz",
+		"Markdown Extended",
+		"C++",
+		"Python",
+		"JavaScript",
+		"SublimeLinter",
+		"Batch File",
+		"Vintage",
+		"PHP",
+		"CSS",
+		"Perl"
+	],
+	"ignored_words":
+	[
+		"Kuroda"
+	],
+	"indent_to_bracket": false,
+	"save_on_focus_lost": false,
+	"theme": "Faceless Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+}
