@@ -1,7 +1,8 @@
 {
 	"auto_complete_commit_on_tab": true,
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
 	"auto_complete_with_fields": true,
-	"color_scheme": "Packages/Theme - Faceless/Tomorrow-Night-Eighties-Stormy.tmTheme",
+	"color_scheme": "Packages/User/Tomorrow-Night-Eighties-Stormy (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"faceless_active_text": true,
 	"faceless_dark_blue": true,
@@ -11,18 +12,16 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"ScalaWorksheet",
-		"Graphviz",
-		"Markdown Extended",
-		"C++",
-		"Python",
 		"JavaScript",
-		"SublimeLinter",
-		"Batch File",
-		"Vintage",
-		"PHP",
 		"CSS",
-		"Perl"
+		"Batch File",
+		"PHP",
+		"Markdown Extended",
+		"Vintage",
+		"Perl",
+		"C++",
+		"Graphviz",
+		"Python"
 	],
 	"ignored_words":
 	[

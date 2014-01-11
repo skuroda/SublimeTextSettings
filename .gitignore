@@ -1,0 +1,4 @@
+*.ca-bundle
+*.ca-list
+*.last-run
+Package Control.cache

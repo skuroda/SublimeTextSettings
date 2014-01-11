@@ -5,14 +5,17 @@ import os
 
 VERSION = int(sublime.version())
 
+
 # Expand settings
 def expand_settings():
-    for filename, setting_keys in expand_settings.items():
+    settings_to_expand = {}
+    for filename, setting_keys in settings_to_expand.items():
         s = sublime.load_settings(filename)
         for key in setting_keys:
             value = s.get(key)
             if value is not None:
                 s.set(key, os.path.expandvars(value))
+
 
 def plugin_loaded():
     expand_settings()
@@ -39,6 +42,3 @@ if VERSION > 3000:
 else:
     from utilities import reloader
     from utilities import *
-
-
-

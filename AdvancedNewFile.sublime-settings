@@ -9,5 +9,5 @@
         }
     },
     "rename_default": ":<filename>",
-    "vcs_management": false
+    "vcs_management": true
 }
