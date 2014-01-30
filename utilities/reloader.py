@@ -24,7 +24,6 @@ mods_load_order = [
     '.expand_setting_env_vars',
     '.window_navigation',
     '.split_line',
-    '.keyboard_multicursor',
     '.view_navigation',
     ''
 ]
@@ -32,5 +31,4 @@ mods_load_order = [
 for suffix in mods_load_order:
     mod = mod_prefix + suffix
     if mod in reload_mods:
-        print(mod)
         reload(sys.modules[mod])

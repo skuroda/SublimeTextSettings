@@ -9,15 +9,11 @@
 		"ExportHtml",
 		"FindKeyConflicts",
 		"FuzzyFileNav",
-		"Git",
-		"Markdown Extended",
-		"Markdown Preview",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
 		"PersistentRegexHighlight",
 		"PlistJsonConverter",
-		"PresetCommand",
 		"Python Improved",
 		"ScopeHunter",
 		"SublimeLinter",
@@ -25,7 +21,6 @@
 		"SublimeLinter-pep8",
 		"SublimeTODO",
 		"Theme - Faceless",
-		"Theme - Phoenix",
 		"Tomorrow Color Schemes",
 		"Vintageous"
 	],
@@ -37,7 +32,6 @@
 	"repositories":
 	[
 		"https://github.com/facelessuser/sublime-languages",
-		"https://github.com/guillermooo/Vintageous",
 		"https://github.com/facelessuser/UnnamedTheme2"
 	]
 }

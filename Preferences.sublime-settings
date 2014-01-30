@@ -1,6 +1,5 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
 	"auto_complete_with_fields": true,
 	"color_scheme": "Packages/User/Tomorrow-Night-Eighties-Stormy (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
@@ -13,24 +12,21 @@
 	"ignored_packages":
 	[
 		"JavaScript",
-		"Better Python",
 		"CSS",
-		"Graphviz",
-		"C++",
-		"Perl",
 		"Batch File",
+		"Graphviz",
+		"Perl",
+		"C++",
+		"Better Python",
 		"Vintage",
-		"Markdown Extended",
 		"PHP"
 	],
 	"ignored_words":
 	[
 		"Kuroda"
 	],
-	"indent_to_bracket": false,
-	"save_on_focus_lost": false,
+	"indent_to_bracket": true,
 	"theme": "Faceless Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+	"trim_trailing_white_space_on_save": true
 }
