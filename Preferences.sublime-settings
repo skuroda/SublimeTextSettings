@@ -13,15 +13,15 @@
 	"ignored_packages":
 	[
 		"JavaScript",
+		"Better Python",
 		"CSS",
-		"Batch File",
-		"PHP",
-		"Markdown Extended",
-		"Vintage",
-		"Perl",
-		"C++",
 		"Graphviz",
-		"Python"
+		"C++",
+		"Perl",
+		"Batch File",
+		"Vintage",
+		"Markdown Extended",
+		"PHP"
 	],
 	"ignored_words":
 	[
