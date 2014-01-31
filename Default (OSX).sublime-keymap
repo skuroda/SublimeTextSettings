@@ -1,0 +1,4 @@
+[
+    {"keys": ["super+o"], "command": "fuzzy_start_from_file"},
+    {"keys": ["super+alt+p"], "command": "get_selection_scope"}
+]

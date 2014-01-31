@@ -11,7 +11,7 @@
     // Put your custom syntax rules here:
     "syntaxes": [
         {
-            "name": ["Python Improved/PythonImproved", "Python/Python"],
+            "name": ["Python Improved/PythonImproved", "AAALanguages/Better Python/Python", "Python/Python"],
             "rules": [
                 {"file_name": ".+\\.py$"}
             ]

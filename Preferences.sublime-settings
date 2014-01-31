@@ -7,10 +7,11 @@
 	"faceless_dark_blue": true,
 	"faceless_dark_dirty_red": true,
 	"faceless_dirty_bar": true,
-	"font_size": 8,
+	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Python",
 		"JavaScript",
 		"CSS",
 		"Batch File",
