@@ -1,38 +1,38 @@
 {
-    "auto_upgrade_last_run": null,
-    "installed_packages":
-    [
-        "AAALanguages",
-        "AdvancedNewFile",
-        "ApplySyntax",
-        "BracketHighlighter",
-        "ExportHtml",
-        "FindKeyConflicts",
-        "FuzzyFileNav",
-        "JsFormat",
-        "Origami",
-        "Package Control",
-        "PackageResourceViewer",
-        "PersistentRegexHighlight",
-        "PlistJsonConverter",
-        "Python Improved",
-        "ScopeHunter",
-        "SublimeLinter",
-        "SublimeLinter-json",
-        "SublimeLinter-pep8",
-        "SublimeTODO",
-        "Theme - Faceless",
-        "Tomorrow Color Schemes",
-        "Vintageous"
-    ],
-    "package_name_map":
-    {
-        "UnnamedTheme2": "Theme - Faceless",
-        "sublime-languages": "AAALanguages"
-    },
-    "repositories":
-    [
-        "https://github.com/facelessuser/sublime-languages",
-        "https://github.com/facelessuser/UnnamedTheme2"
-    ]
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AAALanguages",
+		"AdvancedNewFile",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"ExportHtml",
+		"FindKeyConflicts",
+		"FuzzyFileNav",
+		"JsFormat",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"PersistentRegexHighlight",
+		"Python Improved",
+		"ScopeHunter",
+		"SerializedDataConverter",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-pep8",
+		"SublimeTODO",
+		"Theme - Faceless",
+		"Tomorrow Color Schemes",
+		"Vintageous"
+	],
+	"package_name_map":
+	{
+		"UnnamedTheme2": "Theme - Faceless",
+		"sublime-languages": "AAALanguages"
+	},
+	"repositories":
+	[
+		"https://github.com/facelessuser/sublime-languages",
+		"https://github.com/facelessuser/UnnamedTheme2"
+	]
 }

@@ -11,16 +11,16 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Python",
+		"PHP",
 		"JavaScript",
 		"CSS",
-		"Batch File",
-		"Graphviz",
-		"Perl",
-		"C++",
-		"Better Python",
 		"Vintage",
-		"PHP"
+		"Python",
+		"Perl",
+		"Better Python",
+		"Batch File",
+		"C++",
+		"Graphviz"
 	],
 	"ignored_words":
 	[
