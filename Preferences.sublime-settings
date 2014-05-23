@@ -11,23 +11,24 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"PHP",
 		"JavaScript",
-		"CSS",
-		"Vintage",
+		"Origami",
 		"Python",
-		"Perl",
+		"Graphviz",
+		"CSS",
 		"Better Python",
-		"Batch File",
+		"PHP",
+		"Vintage",
+		"Perl",
 		"C++",
-		"Graphviz"
+		"Batch File"
 	],
 	"ignored_words":
 	[
 		"Kuroda"
 	],
 	"indent_to_bracket": true,
-	"theme": "Faceless Dark.sublime-theme",
+	"theme": "Faceless Dark@st3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
